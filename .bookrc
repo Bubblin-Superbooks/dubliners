@@ -1,10 +1,12 @@
 {
+  "name": "Dubliners",
+  "type": "text",
+  "has_page_numbers": true,
   "mode": {
     "HTML": "html",
-    "CSS": "css",
+    "CSS": "scss",
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "Dubliners",
-  "type": "text"
+  "book_id": 537
 }
